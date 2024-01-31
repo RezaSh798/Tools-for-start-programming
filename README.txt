@@ -6,6 +6,7 @@
 	2.4: Material icon them
 	2.5: JavaScript ES6 code snippets
 	2.6: jsDoc
+	2.7: CodeMetrics
 
 config settings: 
 https://github.com/willfore/vscode_operator_mono_lig
