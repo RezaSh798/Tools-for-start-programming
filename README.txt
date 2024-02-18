@@ -1,4 +1,4 @@
-1. Font: Operator Mono Lig Medium
+1. Font: Fira Code
 2. Extensions:
 	2.1: Custom Css and Js loader
 	2.2: Dainty -> after install set "dainty one dark pro"
