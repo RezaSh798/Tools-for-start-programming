@@ -13,6 +13,7 @@
         2.11: Prettier
         2.12: GitLens
         2.13: ESLint
+        2.14: better comments -> configs is in betterComment folder
 
 config settings: 
 https://github.com/willfore/vscode_operator_mono_lig
