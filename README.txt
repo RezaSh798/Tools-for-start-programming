@@ -19,6 +19,7 @@
         2.17: live server
         2.18: Excel Viewer
         2.19: CodeTour
+        2.20: GlassIt-VSC
 
 config settings: 
 https://github.com/willfore/vscode_operator_mono_lig
