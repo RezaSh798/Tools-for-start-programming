@@ -20,6 +20,7 @@
         2.18: Excel Viewer
         2.19: CodeTour
         2.20: GlassIt-VSC
+        2.21: GraphQL: Syntax Highlighting
 
 config settings: 
 https://github.com/willfore/vscode_operator_mono_lig
