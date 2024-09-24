@@ -1,6 +1,6 @@
 1. Font: Fira Code
 2. Extensions:
-	2.1: Custom Css and Js loader
+	2.1: Custom Css and Js loader -> https://github.com/willfore/vscode_operator_mono_lig
 	2.2: THEME: Dainty, vibrancy continued, ...
 	2.3: Import cost
 	2.4: Material icon them
@@ -21,6 +21,3 @@
         2.19: CodeTour
         2.20: GlassIt-VSC
         2.21: GraphQL: Syntax Highlighting
-
-config settings: 
-https://github.com/willfore/vscode_operator_mono_lig
