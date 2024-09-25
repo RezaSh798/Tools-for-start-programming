@@ -21,3 +21,7 @@
         2.19: CodeTour
         2.20: GlassIt-VSC
         2.21: GraphQL: Syntax Highlighting
+        2.22: Peacock -> Go to vscode settings and active "Peacock: Surprise Me On Startup"
+        2.23: Pretty TypeScript Errors
+        2.24: Project Dashboard
+        2.25: JSON Crack
