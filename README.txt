@@ -29,4 +29,4 @@
         2.24: Project Dashboard
         2.25: JSON Crack
 3. MacOs Theme for ubuntu: https://www.xda-developers.com/steps-make-linux-look-macos/
-4. For install kitty terminal check the kitt config file
+4. For install kitty terminal check the kitty-terminal.txt
