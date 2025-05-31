@@ -37,3 +37,4 @@ cp following configs:
   background #000000
   cursor #dddddd
 4. set as default terminal = sudo update-alternatives --install /usr/bin/x-terminal-emulator x-terminal-emulator /home/user/.local/kitty.app/bin/kitty 50
+5. در مسیر home/.local/share/application داده های مربوط به فایل .desktop رو میسازیم.
