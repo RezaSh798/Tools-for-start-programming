@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Kitty
+Comment=Kitty
+Exec=/home/rivi/.local/kitty.app/bin/kitty
+Path=/home/rivi/.local/kitty.app/bin/
+Terminal=false
+Type=Application
+Icon=/home/rivi/.local/share/applications/kitty.svg
+Categories=Utility;Development;
