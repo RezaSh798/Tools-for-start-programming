@@ -30,3 +30,4 @@
         2.25: JSON Crack
 3. MacOs Theme for ubuntu: https://www.xda-developers.com/steps-make-linux-look-macos/
 4. For install kitty terminal check the kitty-terminal.txt
+5. For install tmux check the tmux
