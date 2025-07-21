@@ -1,6 +1,6 @@
 1. sudo apt install tmux
 2. create directory in `~/.config/tmux/`
 3. copy `tmux.conf` to directory
-4. clone tpm (tmux package manager) from github in `~/.config/tmux/`
+4. clone tpm (tmux package manager) from github in `~/.config/tmux/plugins/`
 6. reload config: in tmux session -> ctrl + a + r
 7. install plugins: in tmux session -> ctrl + a + I
